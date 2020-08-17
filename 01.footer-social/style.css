@@ -1,0 +1,26 @@
+footer{
+    background-color: beige;
+    color: #7c7974;
+}
+
+table {
+    width: 95%;
+    height: 50px;
+    table-layout: fixed;
+    margin-left:auto;
+    margin-right:auto;
+    padding: 5px;
+}
+
+.right{
+    float: right;
+}
+
+a{
+    text-decoration-line: none;
+}
+
+.fa-envelope, .fa-facebook, .fa-twitter, .fa-instagram {
+    color: #7c7974;
+    margin:10px;
+}
